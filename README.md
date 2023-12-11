@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Amisha Naik</h1>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif "> 
+<img align="right" alt="coding" width="400" src=" "> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishanaik7&label=Profile%20views&color=0e75b6&style=flat" alt="amishanaik7" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://amishanaik7.github.io/Portfolio_Website/](https://amishanaik7.github.io/Portfolio_Website/)
