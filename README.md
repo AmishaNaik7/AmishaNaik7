@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Amisha Naik</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishanaik7&label=Profile%20views&color=0e75b6&style=flat" alt="amishanaik7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amishanaik7" alt="amishanaik7" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://amishanaik7.github.io/Portfolio_Website/](https://amishanaik7.github.io/Portfolio_Website/)
 
 - 📫 How to reach me **amishanaik810@gmail.com**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amishanaik7&show_icons=true&locale=en&layout=compact" alt="amishanaik7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amishanaik7&show_icons=true&locale=en" alt="amishanaik7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amishanaik7&" alt="amishanaik7" /></p>
