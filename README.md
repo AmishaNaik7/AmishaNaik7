@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Amisha Naik. </h1>
 <img align="right" alt="coding" width="400" src=" "> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amishanaik7&label=Profile%20views&color=0e75b6&style=flat" alt="amishanaik7" /> </p>
-
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
+</p>
 - 👨‍💻 All of my projects are available at [https://amishanaik7.github.io/Portfolio_Website/](https://amishanaik7.github.io/Portfolio_Website/)
 
 - 📫 How to reach me **amishanaik810@gmail.com**
