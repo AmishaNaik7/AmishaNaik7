@@ -6,7 +6,7 @@
 <!-- <a href="amishanaik810@gmail.com">
   <img align="left" alt="Amisha Naik Email" width="40px" src="https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg" />
 </a> -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmishaNaik7&label=Profile%20views&color=0e75b6&style=flat" alt="AmishaNaik7" /> </p>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
  <p align="left">
  
