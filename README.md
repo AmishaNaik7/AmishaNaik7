@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Amisha Naik. </h1>
 <img align='right' src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="350">
  
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
- <p align="left">
+
 </p>
-- 👨‍💻 All of my projects are available at [https://amishanaik7.github.io/Portfolio_Website/](https://amishanaik7.github.io/Portfolio_Website/)
+- 👨‍💻 All of my projects are available at [https://amishanaik7.github.io/Portfolio_Website/] 
 
 - 📫 How to reach me **amishanaik810@gmail.com**
-
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
+ <p align="left">
 - 📄 Know about my experiences [https://drive.google.com/file/d/1f_CeVAxozavV13OAhXPLmhaiNwcp-GbW/view?usp=drive_link](https://drive.google.com/file/d/1f_CeVAxozavV13OAhXPLmhaiNwcp-GbW/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
