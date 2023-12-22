@@ -13,6 +13,7 @@
  
 </p>
 - 👨‍💻 All of my projects are available at [https://amishanaik7.github.io/Portfolio_Website/]
+
 - 📫 How to reach me **amishanaik810@gmail.com**
 <br/>
 <br/>
