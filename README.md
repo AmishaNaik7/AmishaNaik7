@@ -3,11 +3,11 @@
  
 
 </p>
-- 👨‍💻 All of my projects are available at [https://amishanaik7.github.io/Portfolio_Website/] 
-
-- 📫 How to reach me **amishanaik810@gmail.com**
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
  <p align="left">
+- 👨‍💻 All of my projects are available at [https://amishanaik7.github.io/Portfolio_Website/]
+- 📫 How to reach me **amishanaik810@gmail.com**
+ 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1f_CeVAxozavV13OAhXPLmhaiNwcp-GbW/view?usp=drive_link](https://drive.google.com/file/d/1f_CeVAxozavV13OAhXPLmhaiNwcp-GbW/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
