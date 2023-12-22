@@ -1,4 +1,7 @@
-<h1 align="center">Hello 👋, I'm Amisha Naik. </h1>
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Amisha Naik</a>!
+   
+</h2>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
  <p align="left">
 <img align='right' src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="350">
