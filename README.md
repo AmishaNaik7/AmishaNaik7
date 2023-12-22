@@ -9,11 +9,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
  <p align="left">
-<img align='right' src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="350">
+ 
  
 </p>
 - 👨‍💻 All of my projects are available at [https://amishanaik7.github.io/Portfolio_Website/]
 - 📫 How to reach me **amishanaik810@gmail.com**
+<br/>
+<br/>
+## About Me
+<img align='right' src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="350">
+I am a Graduate BE-CSE, looking for opportunities to show case my skills in the work place. I have studied very hard and I am looking forward to translating all the hard work and effort I have put into studying into real results.
 <br/>
 <br/>
 
