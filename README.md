@@ -2,6 +2,11 @@
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Amisha Naik</a>!
    
 </h2>
+
+<!-- <a href="amishanaik810@gmail.com">
+  <img align="left" alt="Amisha Naik Email" width="40px" src="https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg" />
+</a> -->
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
  <p align="left">
 <img align='right' src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="350">
