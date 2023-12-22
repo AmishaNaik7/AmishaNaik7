@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Amisha Naik. </h1>
 <img align='right' src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="350">
-<img align="right" alt="coding" width="400" src=" "> 
+ 
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
 </p>
 - 👨‍💻 All of my projects are available at [https://amishanaik7.github.io/Portfolio_Website/](https://amishanaik7.github.io/Portfolio_Website/)
