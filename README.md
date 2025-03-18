@@ -12,7 +12,7 @@
  
  
 </p>
-- 👨‍💻 All of my projects are available at ]
+- 👨‍💻 
 
 - 📫 How to reach me **amishanaik810@gmail.com**
 <br/>
