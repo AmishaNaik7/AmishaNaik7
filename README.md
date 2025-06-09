@@ -19,7 +19,7 @@
 <br/>
 ## About Me
 <img align='right' src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="350">
-I am a passionate and driven individual, eager to transform years of focused learning and dedication into impactful real-world results. With a solid foundation in technology, problem-solving, and innovation, I’m actively seeking opportunities where I can contribute meaningfully, grow continuously, and make a lasting difference in a fast-paced, forward-thinking environment
+I am a passionate and driven individual, eager to transform years of focused learning and dedication into impactful real-world results. With a solid foundation in technology, problem-solving, and innovation, I’m actively seeking opportunities where I can contribute meaningfully, grow continuously, and make a lasting difference in a fast-paced, forward-thinking environment.
 <br/>
 <br/>
 
