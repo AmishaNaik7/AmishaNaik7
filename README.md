@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Amisha Naik</a> 
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Amisha  Naik </a> 
     
 </h2>
 
@@ -17,7 +17,7 @@
 - 📫 How to reach me **amishanaik810@gmail.com**
 <br/>
 <br/>
-## About Me
+### About Me
 <img align='right' src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="350">
 I am a passionate and driven individual, eager to transform years of focused learning and dedication into impactful real-world results. With a solid foundation in technology, problem-solving, and innovation, I’m actively seeking opportunities where I can contribute meaningfully, grow continuously, and make a lasting difference in a fast-paced, forward-thinking environment.
 <br/>
